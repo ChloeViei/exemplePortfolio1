@@ -1,1 +1,2 @@
-# exemplePortfolio1
+# examplePortfolio.github.io
+Example of portfolio creation
